@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "1725091236056",
+      "title": "Todo 1",
+      "completed": false,
+      "isImportant": false
+    },
+    {
+      "id": "1725091239454",
+      "title": "Todo 2",
+      "completed": false,
+      "isImportant": true
+    },
+    {
+      "id": "1725091241889",
+      "title": "Todo 3",
+      "completed": true,
+      "isImportant": false
+    }
+  ]
+}
